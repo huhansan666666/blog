@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to blog of XIA CHENRUI
 
-You can use the [editor on GitHub](https://github.com/huhansan666666/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这是我的博客我会分享一些自己的学习经历和资料
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
